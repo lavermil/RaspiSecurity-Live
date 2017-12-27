@@ -2,12 +2,16 @@
 RaspiSecurity+Live is RaspiSecurity and flask-video-streaming
 
 What is the Live in RaspiSecurity+Live?
+
 Borrowed the code from here: https://github.com/miguelgrinberg/flask-video-streaming
+
 
 Supporting code for my article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
 
 What is RaspiSecurity?
+
 Borrowed the code from here: https://github.com/erogol/RaspiSecurity
+
 
 Home Surveillance with Raspberry with only ~100 lines of Python Code.
 For technical details check the realted [medium post](https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9). Hope you like it.
